@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_destaque" value="name:id;datatype:int,name:nome;datatype:blob,name:cargo;datatype:blob,name:telefone;datatype:blob,name:orkut;datatype:blob,name:arquivo;datatype:blob,name:link;datatype:blob,name:legenda;datatype:blob" />
+</info>

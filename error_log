@@ -1,0 +1,26 @@
+[07-Mar-2010 01:30:44] PHP Parse error:  syntax error, unexpected $end in /home/uniaoper/public_html/controle/agenda/atualizar.php on line 44
+[07-Mar-2010 01:31:11] PHP Parse error:  syntax error, unexpected $end in /home/uniaoper/public_html/controle/agenda/atualizar.php on line 43
+[07-Mar-2010 02:12:38] PHP Parse error:  syntax error, unexpected '}' in /home/uniaoper/public_html/controle/agenda/editar.php on line 28
+[07-Mar-2010 02:13:26] PHP Parse error:  syntax error, unexpected '}' in /home/uniaoper/public_html/controle/agenda/editar.php on line 31
+[07-Mar-2010 02:13:26] PHP Parse error:  syntax error, unexpected '}' in /home/uniaoper/public_html/controle/agenda/editar.php on line 31
+[07-Mar-2010 02:15:20] PHP Parse error:  syntax error, unexpected T_WHILE in /home/uniaoper/public_html/controle/agenda/editar.php on line 11
+[07-Mar-2010 02:15:20] PHP Parse error:  syntax error, unexpected T_WHILE in /home/uniaoper/public_html/controle/agenda/editar.php on line 11
+[07-Mar-2010 02:16:00] PHP Parse error:  syntax error, unexpected T_WHILE in /home/uniaoper/public_html/controle/agenda/editar.php on line 11
+[19-Mar-2010 23:04:39] PHP Parse error:  syntax error, unexpected '-', expecting T_VARIABLE or '$' in /home/uniaoper/public_html/controle/agenda/secreta.php on line 4
+[20-Mar-2010 00:00:23] PHP Parse error:  syntax error, unexpected '}' in /home/uniaoper/public_html/controle/agenda/upload.php on line 46
+[30-May-2010 19:36:59] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[30-May-2010 19:37:20] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[30-May-2010 21:55:10] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[31-May-2010 04:32:49] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[01-Jun-2010 00:09:35] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[01-Jun-2010 00:13:55] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[03-Jun-2010 05:03:37] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[04-Jun-2010 14:43:08] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[05-Jun-2010 00:41:53] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[05-Jun-2010 06:58:08] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[05-Jun-2010 19:17:55] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[05-Jun-2010 19:18:04] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[06-Jun-2010 22:02:28] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[08-Jun-2010 00:03:21] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[08-Jun-2010 05:02:01] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85
+[09-Jun-2010 18:23:23] PHP Parse error:  syntax error, unexpected '<' in /home/uniaoper/public_html/controle/agenda/exibe3.php on line 85

@@ -1,0 +1,66 @@
+body { margin: 0px; background:#0A0B0D;}
+ .image01 { border: dotted 1px dotted  #333333; } 
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+	font-size: 13px;
+}
+a:active {
+	text-decoration: underline;
+}
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0A0B0D;
+}
+.image01 {border: dotted 1px dotted  #333333; }
+.style6 {
+	font-size: 20px;
+	font-weight: bold;
+}
+.code {
+	color: #000;
+}
+.code {
+	font-size: 15px;
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: left;
+}
+.bem {
+	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.style7 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;
+}
+.style9 {font-size: 14px; color: #FF0000; font-weight: bold; font-family: Geneva, Arial, Helvetica, sans-serif; }
+.style10 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+.style12 {font-size: 10px}
+.style14 {font-size: 20px; font-weight: bold; color: #FFFFFF; }
+.style18 {color: #FF0000; font-weight: bold; }
+.style20 {color: #FF0000; font-weight: bold; font-size: 13px; }
+.style21 {font-size: 13px}

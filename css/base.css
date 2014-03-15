@@ -1,0 +1,180 @@
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background:#0A0B0D;
+
+}
+.titulo_branco {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style3 {color: #8C46C6}
+.form_edit_box {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	background-color: #000000;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	height: 15px;
+}
+.form_edit_area {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	background-color: #000000;
+	height: 60px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	
+	scrollbar-arrow-color:#FFFFFF;
+	scrollbar-3dlight-color:#292130;
+    scrollbar-highlight-color:#292130;
+    scrollbar-face-color:#292130;
+   scrollbar-shadow-color:#292130;
+    scrollbar-darkshadow-color:#292130;
+    scrollbar-track-color:#292130;
+}
+.style4 {color: #797180}
+.texto_simples_branco {color: #FFFFFF}
+.titulo_templo {
+	color: #EFFE01;
+	font-weight: bold;
+}
+.style5 {color: #726e83}
+.titulo_guiarapido {
+	color: #DAFF9F;
+	font-weight: bold;
+}
+.style7 {color: #D2FF88; font-weight: bold; }
+.form_edit_area1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	background-color: #000000;
+	height: 60px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	
+	scrollbar-arrow-color:#FFFFFF;
+	scrollbar-3dlight-color:#292130;
+    scrollbar-highlight-color:#292130;
+    scrollbar-face-color:#292130;
+   scrollbar-shadow-color:#292130;
+    scrollbar-darkshadow-color:#292130;
+    scrollbar-track-color:#292130;
+}
+.form_edit_area11 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	background-color: #000000;
+	height: 60px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	
+	scrollbar-arrow-color:#FFFFFF;
+	scrollbar-3dlight-color:#292130;
+    scrollbar-highlight-color:#292130;
+    scrollbar-face-color:#292130;
+   scrollbar-shadow-color:#292130;
+    scrollbar-darkshadow-color:#292130;
+    scrollbar-track-color:#292130;
+}
+.form_edit_area111 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	background-color: #000000;
+	height: 60px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	
+	scrollbar-arrow-color:#FFFFFF;
+	scrollbar-3dlight-color:#292130;
+    scrollbar-highlight-color:#292130;
+    scrollbar-face-color:#292130;
+   scrollbar-shadow-color:#292130;
+    scrollbar-darkshadow-color:#292130;
+    scrollbar-track-color:#292130;
+}
+ .image01 
+ { 
+ border: dotted 1px dotted  #333333; 
+ } 
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+	font-size: 10px;
+}
+a:active {
+	text-decoration: underline;
+}
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0A0B0D;
+}
+.image01 {border: dotted 1px dotted  #333333; }
+.style7 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;
+}
+.style9 {font-size: 14px; color: #FF0000; font-weight: bold; font-family: Geneva, Arial, Helvetica, sans-serif; }
+.style10 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+.style12 {
+font-size: 10px
+}
